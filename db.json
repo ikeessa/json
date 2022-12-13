@@ -1,15 +1,11 @@
 {
-  "action": [
-    {
+  "action": [{
       "actionName": 1,
-      "parameters": [
-    {
-      "datetime": 1,
-      "type": "hello"
-    }
-  ],
-    }
-  ],
+      "parameters": [{
+        "datetime": 1,
+        "type": "hello"
+      }],
+    }],
   "profile": {
     "name": "typicode"
   }
