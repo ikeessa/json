@@ -1,15 +1,4 @@
-{
-  "posts": [
-    {
-      "id": 1,
-      "title": "hello"
-    }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
-  
-  "action": {
+"action": {
   "actionName": "action이름",
   "parameters": {
     "datetime": {
@@ -21,7 +10,4 @@
       "value": null
     }  
   }
-
 }
-
-
