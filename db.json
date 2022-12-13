@@ -2,7 +2,12 @@
   "action": [
     {
       "actionName": 1,
-      "parameters": "hello"
+      "parameters": [
+    {
+      "datetime": 1,
+      "type": "hello"
+    }
+  ],
     }
   ],
   "profile": {
