@@ -8,4 +8,20 @@
   "profile": {
     "name": "typicode"
   }
+  
+  "action": {
+  "actionName": "action이름",
+  "parameters": {
+    "datetime": {
+      "type": "BID_DT_DAY",
+      "value": "오늘"
+    },
+    "isValidTime": {
+      "type": null,
+      "value": null
+    }  
+  }
+
 }
+
+
