@@ -1,9 +1,9 @@
 "action": {
-  "actionName": "action이름",
+  "actionName": "action_name",
   "parameters": {
     "datetime": {
       "type": "BID_DT_DAY",
-      "value": "오늘"
+      "value": "today"
     },
     "isValidTime": {
       "type": null,
